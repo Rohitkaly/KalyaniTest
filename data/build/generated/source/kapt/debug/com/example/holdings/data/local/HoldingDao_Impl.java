@@ -69,7 +69,8 @@ public final class HoldingDao_Impl implements HoldingDao {
   }
 
   @Override
-  public Object insertAll(final List<HoldingEntity> items, final Continuation<? super Unit> arg1) {
+  public Object insertAll(final List<HoldingEntity> items,
+      final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       @NonNull
@@ -83,11 +84,11 @@ public final class HoldingDao_Impl implements HoldingDao {
           __db.endTransaction();
         }
       }
-    }, arg1);
+    }, $completion);
   }
 
   @Override
-  public Object clearAll(final Continuation<? super Unit> arg0) {
+  public Object clearAll(final Continuation<? super Unit> $completion) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       @NonNull
@@ -106,7 +107,7 @@ public final class HoldingDao_Impl implements HoldingDao {
           __preparedStmtOfClearAll.release(_stmt);
         }
       }
-    }, arg0);
+    }, $completion);
   }
 
   @Override
