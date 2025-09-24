@@ -22,17 +22,13 @@ class HoldingsRepository(
     override suspend fun refreshFromNetwork(): RepoResult<Unit> {
         return try {
             val response = this.api.getHoldings()
-            Log.d("MyTagResponse", "$response")
-            Log.d("MyTagResponse", "Fetched ${response.data.holdings.size} holdings")
             val entities = response.data.holdings.map { dtoToEntity(it) }
             dao.clearAll()
             dao.insertAll(entities)
             RepoResult.Success(Unit)
         } catch (io: IOException) {
-            Log.d("MyTagResponseErrorIO", "$io")
             RepoResult.Error(io)
         } catch (t: Throwable) {
-            Log.d("MyTagResponseErrorT", "$t")
             RepoResult.Error(t)
         }
     }
