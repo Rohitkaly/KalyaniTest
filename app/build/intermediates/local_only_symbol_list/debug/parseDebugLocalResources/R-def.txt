@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color blue
+color gray
+color green
+color green_pnl
+color purple_500
+color red
+color red_pnl
+color surface
+color white
+id collapsed_root
+id expanded_root
+id recyclerView
+id root
+id summary_collapsed
+id summary_expanded
+id swipeRefresh
+id tvAvgPrice
+id tvCurrentValue
+id tvLtp
+id tvPnl
+id tvQuantity
+id tvSymbol
+id tvTitle
+id tvTodaysPnl
+id tvTotalInvestment
+id tvTotalPnl
+id vertical
+layout activity_main
+layout header_summary_collapsed
+layout header_summary_expanded
+layout item_holding
+string app_name
+style Theme.Holdings

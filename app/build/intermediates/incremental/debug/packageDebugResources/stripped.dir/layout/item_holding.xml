@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:layout_width="match_parent"
+  android:layout_height="72dp"
+  android:padding="8dp">
+
+    <TextView
+        android:id="@+id/tvSymbol"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="SYMB"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/tvLtp" />
+
+    <TextView
+        android:id="@+id/tvQuantity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        app:layout_constraintStart_toStartOf="@+id/tvSymbol"
+        app:layout_constraintTop_toBottomOf="@+id/tvSymbol"/>
+
+    <TextView
+        android:id="@+id/tvLtp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₹0.00"
+        app:layout_constraintTop_toTopOf="@+id/tvSymbol"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvAvgPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Avg: ₹0.00"
+        app:layout_constraintTop_toBottomOf="@+id/tvLtp"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvPnl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="₹0.00"
+        app:layout_constraintTop_toBottomOf="@+id/tvQuantity"
+        app:layout_constraintEnd_toStartOf="@+id/tvAvgPrice"
+        android:paddingEnd="8dp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

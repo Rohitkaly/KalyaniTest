@@ -1,0 +1,437 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:1:1-19:12
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\eb5b3858074c0f871ab553286312c76a\transformed\viewbinding-8.3.2\AndroidManifest.xml:2:1-7:12
+MERGED from [:data] C:\Users\rohit\AndroidStudioProjects\holdings_minimal\data\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [:domain] C:\Users\rohit\AndroidStudioProjects\holdings_minimal\domain\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d46cb48366ed72396ac8de1484248fac\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\87364fb9a7c5a1a5494387a7fc694b21\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a6d4ad293bb0ea20f2e9a839810621b0\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8713b1a3d1d112e92fadbc1a964261f4\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation-fragment:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\acf797651bbded99df52a31ecb4ef604\transformed\hilt-navigation-fragment-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a5c90342598cbf8d802734c359c4c9d4\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\34f02b539347a3ff7b357ad3d1f15089\transformed\hilt-android-2.51.1\AndroidManifest.xml:16:1-19:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b31d517ab857337069e093a795a7d65e\transformed\recyclerview-1.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8dbcfd43158793c6c2fd021506515070\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b94559c395a8df5f5d8f03dd9b826167\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6a178557d24d0826e48c44c5da5bf362\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\e89d1a87f87f90a492f00874ee0e2820\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\fb74476dba375458d34dada99e0dfa4b\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\afccb1658f8acf56bfcc266155aabe74\transformed\activity-1.9.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0c003006897884614cb5176a2227e3db\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\1b6410c728bb40a3412a975256c1d802\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f10d62ecdb2afbdf73353a888e267cfd\transformed\activity-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\bf4e6f064ff097fe9cfd96e82670b066\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f26810ec4a48204966dfb14adc94361d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0522cffb7e32b989792daae6841f7d87\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79262e0ac895a5d5065c06e80db64a3b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\aee41b340f6c8e208f88597e4d338c97\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:core-ktx:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\7254af8d012f738f929c8fc6223e77df\transformed\core-ktx-1.7.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\dfe2e3379a657347c5ea77dc4e901c07\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\ca3f1236119ded397efe24d1949459e2\transformed\navigation-common-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\4c5d9210f1cdf552f067a6197f15a89c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\4f684d26272455a1b4e24d1c48f4fb74\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:17:1-53:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\196f2eb40f299ec944ff7606e347b452\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\3d7e80e5cf9d67e0904ede16902e562f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c68fa218ea48b2e69e65ab15c2aa8760\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\3ca7a8f5bb2d700ba6f58c4f338e1805\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\101595aabbb8da5f728e13ae47cfe716\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\1e44ecd65b2bee3cda8d5f4861911284\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\32c1a7b4702bd3dd910904c75b7cb5e9\transformed\core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\db1c067a1b29ddcd7bbf8257be773ea4\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\96f45eea16bf05fee09e67f385375996\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\500dbb3dce02bac4ff28ccc75e573ea3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5ccac1736e7579b67f69a820cc858f62\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\759d8bc8ddb1c9ae1ff468b33010b818\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d238b224d5175ef875418d9de344362a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a25309041695f39af3fb1dd0bee77acd\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\eceabb5ee72262e68cd76c8dbb3eafda\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a462980825123dd6b71ae604a0fcb080\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\7b692b4839501e1035e9b5f658b51395\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\32b3d32541cd2fa15a8cba0031472689\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\27e00dc16e894ab9b09253e460cc0147\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d21f0a8bf8f5dc2a9f63f38727f2f915\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\62b2f6d4bc8dbdf7492c4e95fe300275\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\89b490a558aa69591acc26661bf02271\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.test:monitor:1.8.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\9f916d3c018650719871db77088e3ac1\transformed\monitor-1.8.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f1a9947c19dc0224198b6c464b2a8c16\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0ff57a44b736d635a804e0583dde1237\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b838ab0cc7a090945ed1db48cab62745\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d7c79c91a7e3e896d6d2dfff6fb750d6\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\da02907d8f206c787fa5982bcd28b17d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c267e324fbc5bbe4693f8ee6b5c11df0\transformed\tracing-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c3f01858e7f40090967d5ff5ca9de7f3\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\78b201b09befd2328d4080522f988fd3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\268d8807d83f4babb42021313b877012\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\af6dae8b834bc9cc3c8e49ffdacdd375\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:16:1-19:12
+	package
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:6:5-18:19
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:6:5-18:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d46cb48366ed72396ac8de1484248fac\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d46cb48366ed72396ac8de1484248fac\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\87364fb9a7c5a1a5494387a7fc694b21\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\87364fb9a7c5a1a5494387a7fc694b21\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:26:5-51:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\da02907d8f206c787fa5982bcd28b17d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\da02907d8f206c787fa5982bcd28b17d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:9:9-36
+	android:allowBackup
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:8:9-35
+	android:name
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:7:9-44
+activity#com.example.holdings.app.ui.MainActivity
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:exported
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:11:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\eb5b3858074c0f871ab553286312c76a\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.3.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\eb5b3858074c0f871ab553286312c76a\transformed\viewbinding-8.3.2\AndroidManifest.xml:5:5-44
+MERGED from [:data] C:\Users\rohit\AndroidStudioProjects\holdings_minimal\data\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:data] C:\Users\rohit\AndroidStudioProjects\holdings_minimal\data\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:domain] C:\Users\rohit\AndroidStudioProjects\holdings_minimal\domain\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:domain] C:\Users\rohit\AndroidStudioProjects\holdings_minimal\domain\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d46cb48366ed72396ac8de1484248fac\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d46cb48366ed72396ac8de1484248fac\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\87364fb9a7c5a1a5494387a7fc694b21\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\87364fb9a7c5a1a5494387a7fc694b21\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a6d4ad293bb0ea20f2e9a839810621b0\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a6d4ad293bb0ea20f2e9a839810621b0\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8713b1a3d1d112e92fadbc1a964261f4\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8713b1a3d1d112e92fadbc1a964261f4\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-fragment:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\acf797651bbded99df52a31ecb4ef604\transformed\hilt-navigation-fragment-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation-fragment:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\acf797651bbded99df52a31ecb4ef604\transformed\hilt-navigation-fragment-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a5c90342598cbf8d802734c359c4c9d4\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.hilt:hilt-navigation:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a5c90342598cbf8d802734c359c4c9d4\transformed\hilt-navigation-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\34f02b539347a3ff7b357ad3d1f15089\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.51.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\34f02b539347a3ff7b357ad3d1f15089\transformed\hilt-android-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b31d517ab857337069e093a795a7d65e\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b31d517ab857337069e093a795a7d65e\transformed\recyclerview-1.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8dbcfd43158793c6c2fd021506515070\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8dbcfd43158793c6c2fd021506515070\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b94559c395a8df5f5d8f03dd9b826167\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b94559c395a8df5f5d8f03dd9b826167\transformed\navigation-fragment-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6a178557d24d0826e48c44c5da5bf362\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6a178557d24d0826e48c44c5da5bf362\transformed\navigation-fragment-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\e89d1a87f87f90a492f00874ee0e2820\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\e89d1a87f87f90a492f00874ee0e2820\transformed\fragment-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\fb74476dba375458d34dada99e0dfa4b\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\fb74476dba375458d34dada99e0dfa4b\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\afccb1658f8acf56bfcc266155aabe74\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\afccb1658f8acf56bfcc266155aabe74\transformed\activity-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0c003006897884614cb5176a2227e3db\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0c003006897884614cb5176a2227e3db\transformed\navigation-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\1b6410c728bb40a3412a975256c1d802\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\1b6410c728bb40a3412a975256c1d802\transformed\navigation-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f10d62ecdb2afbdf73353a888e267cfd\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f10d62ecdb2afbdf73353a888e267cfd\transformed\activity-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\bf4e6f064ff097fe9cfd96e82670b066\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\bf4e6f064ff097fe9cfd96e82670b066\transformed\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f26810ec4a48204966dfb14adc94361d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f26810ec4a48204966dfb14adc94361d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0522cffb7e32b989792daae6841f7d87\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0522cffb7e32b989792daae6841f7d87\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79262e0ac895a5d5065c06e80db64a3b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79262e0ac895a5d5065c06e80db64a3b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\aee41b340f6c8e208f88597e4d338c97\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\aee41b340f6c8e208f88597e4d338c97\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:core-ktx:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\7254af8d012f738f929c8fc6223e77df\transformed\core-ktx-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core-ktx:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\7254af8d012f738f929c8fc6223e77df\transformed\core-ktx-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\dfe2e3379a657347c5ea77dc4e901c07\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\dfe2e3379a657347c5ea77dc4e901c07\transformed\navigation-common-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\ca3f1236119ded397efe24d1949459e2\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\ca3f1236119ded397efe24d1949459e2\transformed\navigation-common-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\4c5d9210f1cdf552f067a6197f15a89c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\4c5d9210f1cdf552f067a6197f15a89c\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\4f684d26272455a1b4e24d1c48f4fb74\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\4f684d26272455a1b4e24d1c48f4fb74\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\196f2eb40f299ec944ff7606e347b452\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\196f2eb40f299ec944ff7606e347b452\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\3d7e80e5cf9d67e0904ede16902e562f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\3d7e80e5cf9d67e0904ede16902e562f\transformed\lifecycle-livedata-core-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c68fa218ea48b2e69e65ab15c2aa8760\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c68fa218ea48b2e69e65ab15c2aa8760\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\3ca7a8f5bb2d700ba6f58c4f338e1805\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\3ca7a8f5bb2d700ba6f58c4f338e1805\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\101595aabbb8da5f728e13ae47cfe716\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\101595aabbb8da5f728e13ae47cfe716\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\1e44ecd65b2bee3cda8d5f4861911284\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\1e44ecd65b2bee3cda8d5f4861911284\transformed\lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\32c1a7b4702bd3dd910904c75b7cb5e9\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\32c1a7b4702bd3dd910904c75b7cb5e9\transformed\core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\db1c067a1b29ddcd7bbf8257be773ea4\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\db1c067a1b29ddcd7bbf8257be773ea4\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\96f45eea16bf05fee09e67f385375996\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\96f45eea16bf05fee09e67f385375996\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\500dbb3dce02bac4ff28ccc75e573ea3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\500dbb3dce02bac4ff28ccc75e573ea3\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5ccac1736e7579b67f69a820cc858f62\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5ccac1736e7579b67f69a820cc858f62\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\759d8bc8ddb1c9ae1ff468b33010b818\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\759d8bc8ddb1c9ae1ff468b33010b818\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d238b224d5175ef875418d9de344362a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d238b224d5175ef875418d9de344362a\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a25309041695f39af3fb1dd0bee77acd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a25309041695f39af3fb1dd0bee77acd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\eceabb5ee72262e68cd76c8dbb3eafda\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\eceabb5ee72262e68cd76c8dbb3eafda\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a462980825123dd6b71ae604a0fcb080\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\a462980825123dd6b71ae604a0fcb080\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\7b692b4839501e1035e9b5f658b51395\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\7b692b4839501e1035e9b5f658b51395\transformed\lifecycle-viewmodel-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\32b3d32541cd2fa15a8cba0031472689\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\32b3d32541cd2fa15a8cba0031472689\transformed\lifecycle-runtime-ktx-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\27e00dc16e894ab9b09253e460cc0147\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\27e00dc16e894ab9b09253e460cc0147\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d21f0a8bf8f5dc2a9f63f38727f2f915\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d21f0a8bf8f5dc2a9f63f38727f2f915\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\62b2f6d4bc8dbdf7492c4e95fe300275\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\62b2f6d4bc8dbdf7492c4e95fe300275\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\89b490a558aa69591acc26661bf02271\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\89b490a558aa69591acc26661bf02271\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.test:monitor:1.8.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\9f916d3c018650719871db77088e3ac1\transformed\monitor-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.8.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\9f916d3c018650719871db77088e3ac1\transformed\monitor-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f1a9947c19dc0224198b6c464b2a8c16\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f1a9947c19dc0224198b6c464b2a8c16\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0ff57a44b736d635a804e0583dde1237\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\0ff57a44b736d635a804e0583dde1237\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b838ab0cc7a090945ed1db48cab62745\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b838ab0cc7a090945ed1db48cab62745\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d7c79c91a7e3e896d6d2dfff6fb750d6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\d7c79c91a7e3e896d6d2dfff6fb750d6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\da02907d8f206c787fa5982bcd28b17d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\da02907d8f206c787fa5982bcd28b17d\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c267e324fbc5bbe4693f8ee6b5c11df0\transformed\tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c267e324fbc5bbe4693f8ee6b5c11df0\transformed\tracing-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c3f01858e7f40090967d5ff5ca9de7f3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\c3f01858e7f40090967d5ff5ca9de7f3\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\78b201b09befd2328d4080522f988fd3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\78b201b09befd2328d4080522f988fd3\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\268d8807d83f4babb42021313b877012\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\268d8807d83f4babb42021313b877012\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\af6dae8b834bc9cc3c8e49ffdacdd375\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.51.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\af6dae8b834bc9cc3c8e49ffdacdd375\transformed\dagger-lint-aar-2.51.1\AndroidManifest.xml:18:3-42
+	android:targetSdkVersion
+		INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rohit\AndroidStudioProjects\holdings_minimal\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.REORDER_TASKS
+ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:24:22-69
+activity#androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:27:9-34:20
+	android:exported
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:29:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:28:13-99
+intent-filter#category:name:android.intent.category.LAUNCHER
+ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:31:28-51
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity
+ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:35:9-42:20
+	android:exported
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:37:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:36:13-95
+activity#androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity
+ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:43:9-50:20
+	android:exported
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:45:13-36
+	android:theme
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:46:13-62
+	android:name
+		ADDED from [androidx.test:core:1.7.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\5a4e52a0839136e519eeefa5e99f3f19\transformed\core-1.7.0\AndroidManifest.xml:44:13-103
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\f84ab40112d943908ae85ae6601bb8b6\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\8f50932c6e13c7d026629b38b1afce21\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\79067977d278031eb7f7fbd0a49bc15f\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\41480e215a8485c5fee5e44b1ddc11de\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.holdings.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.holdings.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\6b81404faef0bf02b25616b3f39f0714\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\582960dd47cef18dc55b2ebbb7c44d85\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\rohit\AndroidStudioProjects\one31-android-tv\one31-android-tv\caches\transforms-3\b08d0f4d3420f138cb5dcd9bef141f98\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

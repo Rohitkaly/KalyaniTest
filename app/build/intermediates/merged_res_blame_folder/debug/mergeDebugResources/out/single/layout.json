@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.holdings.app-mergeDebugResources-3:/layout/header_summary_expanded.xml",
+        "source": "com.example.holdings.app-main-6:/layout/header_summary_expanded.xml"
+    },
+    {
+        "merged": "com.example.holdings.app-mergeDebugResources-3:/layout/item_holding.xml",
+        "source": "com.example.holdings.app-main-6:/layout/item_holding.xml"
+    },
+    {
+        "merged": "com.example.holdings.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.holdings.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.holdings.app-mergeDebugResources-3:/layout/header_summary_collapsed.xml",
+        "source": "com.example.holdings.app-main-6:/layout/header_summary_collapsed.xml"
+    }
+]

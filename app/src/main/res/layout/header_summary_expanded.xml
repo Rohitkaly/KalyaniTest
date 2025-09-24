@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  android:id="@+id/expanded_root"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:padding="12dp"
+  android:visibility="gone">
+
+    <TextView
+        android:id="@+id/tvCurrentValue"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Current value"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvTotalInvestment"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Total investment"
+        app:layout_constraintTop_toBottomOf="@id/tvCurrentValue"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvTotalPnl"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Total PNL"
+        app:layout_constraintTop_toBottomOf="@id/tvTotalInvestment"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <TextView
+        android:id="@+id/tvTodaysPnl"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Today's PNL"
+        app:layout_constraintTop_toBottomOf="@id/tvTotalPnl"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
